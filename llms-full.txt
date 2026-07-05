@@ -1,0 +1,39 @@
+# Geotechnique — Évreux
+
+> Geotechnical engineering services in Évreux, France.
+
+## Services
+- [Amelioration Sols](https://evreux.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://evreux.geotechnique.biz/ancrages/)
+- [Chaussee Rigide](https://evreux.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://evreux.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://evreux.geotechnique.biz/colonnes-ballastees/)
+- [Essai Cpt](https://evreux.geotechnique.biz/essai-cpt/)
+- [Essai Plaque Charge](https://evreux.geotechnique.biz/essai-plaque-charge/)
+- [Excavations](https://evreux.geotechnique.biz/excavations/)
+- [Fondations](https://evreux.geotechnique.biz/fondations/)
+- [Geophysique](https://evreux.geotechnique.biz/geophysique/)
+- [Geotechnique Routiere](https://evreux.geotechnique.biz/geotechnique-routiere/)
+- [Injections](https://evreux.geotechnique.biz/injections/)
+- [Investigation](https://evreux.geotechnique.biz/investigation/)
+- [Labo In Situ](https://evreux.geotechnique.biz/labo-in-situ/)
+- [Limites Atterberg](https://evreux.geotechnique.biz/limites-atterberg/)
+- [Masw](https://evreux.geotechnique.biz/masw/)
+- [Permeabilite In Situ](https://evreux.geotechnique.biz/permeabilite-in-situ/)
+- [Puits Inspection](https://evreux.geotechnique.biz/puits-inspection/)
+- [Radiers](https://evreux.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://evreux.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://evreux.geotechnique.biz/resistivite/)
+- [Semelles](https://evreux.geotechnique.biz/semelles/)
+- [Sondages Spt](https://evreux.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://evreux.geotechnique.biz/stabilite-talus/)
+- [Talus](https://evreux.geotechnique.biz/talus/)
+- [Tunnels Sol Mou](https://evreux.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://evreux.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://evreux.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Évreux, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
